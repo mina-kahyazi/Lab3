@@ -1,0 +1,31 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .form{
+
+    margin:50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+   
+    width:400px;
+    border: 2px black solid ;
+
+  }
+
+  button{
+
+    width:50px;
+    margin: 20px;
+  }
+
+  input{
+
+    margin:20px;
+  }
+  img{
+      margin:20px;
+      width:100px;
+  }
